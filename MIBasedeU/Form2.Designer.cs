@@ -103,7 +103,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(36, 13);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Nota1";
+            this.label3.Text = "Nota2";
             // 
             // label4
             // 
@@ -113,7 +113,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(36, 13);
             this.label4.TabIndex = 6;
-            this.label4.Text = "Nota1";
+            this.label4.Text = "Nota3";
             // 
             // label5
             // 
@@ -123,7 +123,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(36, 13);
             this.label5.TabIndex = 7;
-            this.label5.Text = "Nota1";
+            this.label5.Text = "Nota4";
             // 
             // txtboxnota1
             // 
